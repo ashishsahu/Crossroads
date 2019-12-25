@@ -1,0 +1,51 @@
+.avatar {
+    height: 30px
+  }
+
+
+  p.message{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100%;
+    overflow: hidden;
+    color: #444d56;
+    font-size: 14px;
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+
+.card-body span {
+    margin-left: 5px;
+}
+
+.pagination_div {
+    text-align:  center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.main_table{
+    min-height: calc(100vh - 210px);
+}
+.author_name{
+    color: #586069;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.time_details{
+    font-weight: 400;
+    color: #586069;
+    font-size: 12px;
+}
+.avatar_img img{
+    max-width: 20px;
+    max-height: 20px;
+}
+
+.card-body {
+    padding: 8px 10px;
+}
+.heading_refresh{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
